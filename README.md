@@ -1,4 +1,5 @@
-# 5th-Advanced
+# Euron-5th-Advanced
+
 * week 1
   - What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers
       : https://military-soybean-f73.notion.site/week1-Intensive-Study-on-HyperCLOVA-Billions-scale-Korean-Generative-Pretrained-Transformers-c152d2a367164df8bd2fc5b49cab074b?pvs=4
