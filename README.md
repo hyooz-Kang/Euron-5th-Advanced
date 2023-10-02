@@ -1,6 +1,6 @@
 # 5th-Advanced
 
-[week4] 논문 리뷰 과제
+[week4]_논문 리뷰 과제
 
 * Large Language Models Are Human-Level Prompt engineers
   : https://military-soybean-f73.notion.site/week4-Large-Language-Models-Are-Human-Level-Prompt-engineers-7d1926b316ac42acbadd505b9e8d49e5?pvs=4
